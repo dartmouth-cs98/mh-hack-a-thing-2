@@ -2,7 +2,7 @@
 <br/>
 
 ## What Did I Attempt To Build
-In my hack-a-thing mini project, I attempted to build a version of the popular android game "Color Bump"
+In my hack-a-thing mini project, I attempted to build a version of the popular android game "Color Bump." Much of the project didn't involve actual code. The graphical elements were constructed in Unity. 
 
 ## What I Learned
 This was my first time using working Unity3D and C#. Working through this hack-a-thing game me some knowledge and confidence in working with this technology. I was originally unaware that C# and Unity were used in tandem to create functional mobile / computer games. I am definitely interested in obtaining a better grasp of these technologies down the road. 
